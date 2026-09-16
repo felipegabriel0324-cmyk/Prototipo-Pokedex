@@ -21,10 +21,22 @@ body {
 	font-size:24px;
 	margin-right:20px;
 }
-.pesquisa {
+.grade_pesquisa {
 	display:flex;
-	flex-direction:column;
-	justify-content:center;
-	align-items:flex-start;
-	height:120px;
+	flex-direction:row;
+	justify-content:space-between;
+	align-items:center;
+	height:160px;
+}
+.caixa_pesquisa {
+}
+.imagem_pesquisa {
+}
+.pesquisa {
+	width:300px;
+	height:40px;
+	font-size:20px;
+	border:4px solid blue;
+	border-radius:10px;
+	margin:10px 10px;
 }
