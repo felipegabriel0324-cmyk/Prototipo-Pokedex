@@ -3,8 +3,8 @@
 
 <svg
    width="3660mm"
-   height="500mm"
-   viewBox="0 0 3660 500"
+   height="377mm"
+   viewBox="0 0 3660 377"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="false"
-     inkscape:zoom="0.080000879"
-     inkscape:cx="10162.388"
-     inkscape:cy="1874.9794"
+     inkscape:zoom="0.056569164"
+     inkscape:cx="7672.0243"
+     inkscape:cy="1502.5854"
      inkscape:window-width="1366"
      inkscape:window-height="717"
      inkscape:window-x="0"
@@ -38,7 +38,7 @@
     <rect
        x="699.99231"
        y="1199.9868"
-       width="5803.3111"
+       width="5803.311"
        height="1570.173"
        id="rect32" />
     <rect
@@ -76,25 +76,25 @@
        id="rect31"
        width="3497.2424"
        height="279.78122"
-       x="-175.65724"
-       y="-142.9171"
+       x="-186.94893"
+       y="-157.84843"
        ry="138.86613"
        rx="164.231" />
     <text
        xml:space="preserve"
-       transform="matrix(0.3410307,0,0,0.34739465,-179.78511,-367.98329)"
+       transform="matrix(0.32018142,0,0,0.27049843,-219.25937,-311.10353)"
        id="text31"
        style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1075.81px;font-family:Sans;-inkscape-font-specification:'Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32);shape-padding:70.7099;display:inline;fill:#ffff00"><tspan
          x="770.70117"
          y="2249.5482"
          id="tspan1">POKEDEX</tspan></text>
     <rect
-       style="fill:#ffff00;stroke-width:0.218379"
+       style="fill:#ffff00;stroke-width:0.188311"
        id="rect33"
-       width="1633.7839"
-       height="157.71072"
-       x="2020.1655"
-       y="181.89903"
+       width="1657.1698"
+       height="115.61623"
+       x="1959.3624"
+       y="139.80455"
        ry="0" />
   </g>
 </svg>

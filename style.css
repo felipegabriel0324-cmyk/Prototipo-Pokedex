@@ -5,8 +5,8 @@ body {
 	display:flex;
 	flex-direction:row;
 	justify-content:space-between;
-	align-items:flex-center;
-	height:120px;
+	align-items:center;
+	height:80px;
 	background-image:url("images/Header.svg");
 	background-size:cover;
 	background-position:center;
@@ -19,4 +19,12 @@ body {
 	align-items:center;
 	gap:32px;
 	font-size:24px;
+	margin-right:20px;
+}
+.pesquisa {
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:flex-start;
+	height:120px;
 }
