@@ -24,13 +24,28 @@ body {
 .grade_pesquisa {
 	display:flex;
 	flex-direction:row;
-	justify-content:space-between;
+	justify-content:flex-start;
 	align-items:center;
 	height:160px;
+	background-image:url("images/grade_pesquisa.svg");
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
 }
 .caixa_pesquisa {
+	display:flex;
+	flex-direction:column;
+	align-items:center;
 }
-.imagem_pesquisa {
+.filtros_pesquisa {
+	display:flex;
+	margin-left:12px;
+}
+.tipos {
+	display:flex;
+	gap:12px;
+}
+.tipo {
 }
 .pesquisa {
 	width:300px;
@@ -38,5 +53,9 @@ body {
 	font-size:20px;
 	border:4px solid blue;
 	border-radius:10px;
-	margin:10px 10px;
+	margin-bottom:46px;
+	margin-left:10px;
+}
+.procurar {
+	margin-right:184px;
 }
